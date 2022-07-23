@@ -1,5 +1,5 @@
 # complex-multi-container
 
-To run just do:
+To build and run just do:
 
-docker-compose up
+docker-compose -f docker-compose-dev.yml up --build
